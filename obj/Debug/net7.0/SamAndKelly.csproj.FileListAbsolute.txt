@@ -1,0 +1,14 @@
+C:\Users\APT02-63\Documents\SamAndKelly\bin\Debug\net7.0\SamAndKelly.exe
+C:\Users\APT02-63\Documents\SamAndKelly\bin\Debug\net7.0\SamAndKelly.deps.json
+C:\Users\APT02-63\Documents\SamAndKelly\bin\Debug\net7.0\SamAndKelly.runtimeconfig.json
+C:\Users\APT02-63\Documents\SamAndKelly\bin\Debug\net7.0\SamAndKelly.dll
+C:\Users\APT02-63\Documents\SamAndKelly\bin\Debug\net7.0\SamAndKelly.pdb
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.AssemblyInfoInputs.cache
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.AssemblyInfo.cs
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.csproj.CoreCompileInputs.cache
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.dll
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\refint\SamAndKelly.dll
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.pdb
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\SamAndKelly.genruntimeconfig.cache
+C:\Users\APT02-63\Documents\SamAndKelly\obj\Debug\net7.0\ref\SamAndKelly.dll
