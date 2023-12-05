@@ -11,21 +11,34 @@ Initially, Sam has solved difference problems more than Kelly. Each day, they so
 kellyDaily problems each.
 
 Day 1: samSolved = difference + samDaily = 5 + 3 = 8
+
 kellySolved = kellyDaily = 5
+
 Day 2: samSolved = 8 + 3 = 11
+
 kellySolved = 5 + 5 = 10
+
 Day 3: samSolved = 11 + 3 = 14
+
 kellySolved = 10 + 5 = 15
-Sam is 5 problems ahead of Kelly and they solve 3 and 5 problems a day. Sam will be ahead by only
-3 after the first day, 1 after the second, and Kelly will pass Sam on day 3.
+
+
+
 Function Description
+
 Complete the function minNum in the editor below.
+
 MinNum has the following parameter(s):
+
 SamDaily: Number of problems Sam solves in a day
+
 KellyDaily: Number of problems Kelly solves in a day
+
 Difference: Number of problems Sam isa head to begin
+
 Return
 Int: the minimum number of days needed by Kelly to exceed Samm, or -1 if it is imposible
+
 Constraints
 • 1 ≤ samDaily, kellyDaily ≤ 100
 • 0 ≤ difference ≤ 100
